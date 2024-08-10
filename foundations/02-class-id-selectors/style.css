@@ -1,0 +1,19 @@
+.pink-background {
+    background-color: rgb(255,192,203);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#big-blue {
+    color: rgb(30,144,255);
+    font-size: 24px;
+}
+
+#hulk {
+    background-color: rgb(34,139,34);
+    font-size: 24px;
+    font-style: bold;
+}
+
+.big-font {
+    font-size: 24px;
+}
